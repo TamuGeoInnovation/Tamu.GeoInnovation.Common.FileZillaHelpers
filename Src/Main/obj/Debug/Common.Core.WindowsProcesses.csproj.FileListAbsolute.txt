@@ -1,0 +1,5 @@
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.WindowsProcesses\build\v1.1\bin\AnyCPU\debug\USC.GISResearchLab.Common.Core.WindowsProcesses.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.WindowsProcesses\build\v1.1\bin\AnyCPU\debug\USC.GISResearchLab.Common.Core.WindowsProcesses.pdb
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.WindowsProcesses\src\obj\Debug\Common.Core.WindowsProcesses.csprojResolveAssemblyReference.cache
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.WindowsProcesses\src\obj\Debug\USC.GISResearchLab.Common.Core.WindowsProcesses.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.WindowsProcesses\src\obj\Debug\USC.GISResearchLab.Common.Core.WindowsProcesses.pdb

@@ -91,18 +91,6 @@
     </Reference>
     <Reference Include="System.Management" />
     <Reference Include="System.Xml" />
-    <Reference Include="Tamu.GeoInnovation.Common.Core.Security">
-      <HintPath>..\..\..\..\..\..\..\DevBuild\Tamu\GeoInnovation\Common\Core\Security\build\1.0.0\release\Tamu.GeoInnovation.Common.Core.Security.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Tamu.GeoInnovation.Common.Core.WindowsProcesses">
-      <HintPath>..\..\..\..\..\..\..\DevBuild\Tamu\GeoInnovation\Common\Core\WindowsProcesses\build\1.0.0\release\Tamu.GeoInnovation.Common.Core.WindowsProcesses.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Tamu.GeoInnovation.Common.Core.Xml">
-      <HintPath>..\..\..\..\..\..\..\DevBuild\Tamu\GeoInnovation\Common\Core\XML\build\1.0.0\release\Tamu.GeoInnovation.Common.Core.Xml.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="FTP\FileZillaServerUtils.cs" />
@@ -130,6 +118,23 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="LICENSE.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Common.Core.Security\Src\Main\Common.Core.Security.Dev.csproj">
+      <Project>{D46E3A34-D2A4-4617-A13D-39E787C48C15}</Project>
+      <Name>Common.Core.Security.Dev</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Common.Core.WindowsProcesses\Src\Main\Common.Core.WindowsProcesses.Dev.csproj">
+      <Project>{78FDC258-0112-4742-A62F-7208E49FC680}</Project>
+      <Name>Common.Core.WindowsProcesses.Dev</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Common.Core.XML\Src\Main\Common.Core.Xml.Dev.csproj">
+      <Project>{A297AEBA-E382-428B-859D-EB1B53205B30}</Project>
+      <Name>Common.Core.Xml.Dev</Name>
+      <Private>False</Private>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!--  

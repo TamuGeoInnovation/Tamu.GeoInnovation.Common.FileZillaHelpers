@@ -1,3 +1,0 @@
-C:\DevSource\Tamu\GeoInnovation\Common.FileZillaHelpers\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.FileZillaHelpers.dll
-C:\DevSource\Tamu\GeoInnovation\Common.FileZillaHelpers\Src\Main\obj\Release\Common.FileZillaHelpers.Dev.csprojResolveAssemblyReference.cache
-C:\DevSource\Tamu\GeoInnovation\Common.FileZillaHelpers\Src\Main\obj\Release\Tamu.GeoInnovation.Common.FileZillaHelpers.dll

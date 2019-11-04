@@ -1,9 +1,9 @@
 ﻿using System;
-using System.Xml;
-using USC.GISResearchLab.Common.Utils.XML;
 using System.IO;
-using USC.GISResearchLab.Common.Security.Cryptography;
+using System.Xml;
 using USC.GISResearchLab.Common.Core.ShellCommands;
+using USC.GISResearchLab.Common.Security.Cryptography;
+using USC.GISResearchLab.Common.Utils.XML;
 
 namespace USC.GISResearchLab.Common.Core.FTP
 {
